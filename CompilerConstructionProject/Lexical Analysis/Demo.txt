@@ -1,0 +1,19 @@
+int new ()
+{
+__ = 10 :
+_abc = 10.5 :
+loop ( int i = 0 : i <= 10 : i ++ )
+{
+enum( _j_ % 10 = 0 )
+}
+magar ( k = 5 : K >= 0 ; k -- )
+{
+_abc_ = 10E+12 :
+}
+agar ( j > 5 && _b_ == 122.23 | _c_ <> 10 )
+{
+_k_ = 10.55 ;
+}
+return " hurrah " :
+return _b_ * .5 ;
+}
