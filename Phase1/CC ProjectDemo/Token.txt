@@ -1,0 +1,38 @@
+int iskeyword
+mian is Identifier
+<> is Operator
+{ is Puntuation
+float iskeyword
+a_ is Identifier
+=:= is Operator
+10 is Digit
+: is Operator
+bool iskeyword
+b_b is Identifier
+[10] is Digit
+loop is keyword
+< is Puntuation
+a is Identifier
+!= is Operator
+0 is Digit
+a_a is Identifier
+=>7.5 is Digit
+: is Operator
+a_ is Identifier
+++ is Operator
+> is Puntuation
+{ is Puntuation
+agar is keyword
+< is Puntuation
+_a is Identifier
+=:= is Operator
+2.2E+5> is Digit
+_a is Identifier
+== is Operator
+1.2E-3 is Digit
+cin is keyword
+>> is Operator
+a is Identifier
+:: is Operator
+} is Puntuation
+} is Puntuation

@@ -1,0 +1,4 @@
+loop, agar, magar,  asm,  else, new, this, auto, enum, operator, throw, bool , explicit, private, true, break, export, protected , try,  case, extern, public, typedef, catch,  false, register, typeid, char, float, typename, 
+class,  for, return, union, const,  friend, short, unsigned
+goto,  signed,  using, continue, if, sizeof, virtual, default, inline,  static, void, delete, int, volatile, do, long, struct,cin
+double,  mutable,  switch,  while,  namespace,[,{,< , >,},] !=, <>, =:= , ==, *, +, /,-, >>,<<, ++, =+, &&, ||, =>, =<, %, :, :: , -- 
