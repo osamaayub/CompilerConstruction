@@ -1,0 +1,15 @@
+:= :=
+7 numb
+7 numb
+; ;
+if if
+( (
+rate2 id
+== ==
+) )
+rate2 id
++ +
+( (
+2 numb
+* *
+) )
